@@ -3742,7 +3742,7 @@ fieldset:disabled .btn {
   text-decoration: underline;
 }
 .btn-link:hover {
-  color: #15967d;
+  color: #fcc945;
 }
 .btn-link:disabled,
 .btn-link.disabled {
